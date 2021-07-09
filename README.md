@@ -23,3 +23,7 @@ const ultimateFetch = async (
   }
 };
 ```
+
+## Source
+I basically got the structure the [Fireship](https://www.youtube.com/watch?v=ITogH7lJTyE) did and add the data treatment
+
