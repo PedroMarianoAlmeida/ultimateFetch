@@ -2,6 +2,7 @@
 
 JavaScript function to handle asynchronous code. Simple but efficient, can replace simple fetch requests e standardize the way you treat errors and the response data. 
 
+## Function
 ```javascript
 const ultimateFetch = async (
   resource,
